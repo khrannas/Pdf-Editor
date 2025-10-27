@@ -1,0 +1,5 @@
+{
+  "name": "Gemini PDF Editor",
+  "description": "A powerful in-browser PDF editor that allows you to split, merge, add pages from images or other PDFs, edit content with AI assistance, and add freehand drawings to your documents.",
+  "requestFramePermissions": []
+}
